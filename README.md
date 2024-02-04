@@ -9,7 +9,7 @@ This repository is a part of LangChain tutorial. It demonstrates the integration
 Before starting, ensure you have the following:
 
 - Python (3.x recommended) installed on your system.
-- A code editor (like VSCode) for editing and running scripts.
+- OpenAI API key (Follow these [instructions](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/) to get your OpenAI API key)
 
 
 ## Installation
