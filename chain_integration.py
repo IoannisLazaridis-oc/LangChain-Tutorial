@@ -1,7 +1,11 @@
 import os
+from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate
 from langchain.schema import BaseOutputParser
+
+# Load environment variables
+load_dotenv()
 
 # Retrieve the OpenAI API key
 openai_api_key = os.getenv("OPENAI_API_KEY")
