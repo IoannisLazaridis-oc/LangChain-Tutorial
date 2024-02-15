@@ -1,8 +1,11 @@
  
 
-# LangChain: How to build AI-driven Applications Tutorial 🚀
+# 🦜️🔗 LangChain: How to build AI-driven Applications Tutorial 
+[![Python CI](https://github.com/IoannisLazaridis-oc/LangChain-Tutorial/actions/workflows/python-ci.yml/badge.svg)](https://github.com/IoannisLazaridis-oc/LangChain-Tutorial/actions/workflows/python-ci.yml)
 
-## 🎉 Introduction
+⚡ Build context-aware reasoning applications ⚡
+
+## 🚀 Introduction
 This repository is a part of LangChain tutorial. It demonstrates the integration of OpenAI model using the LangChain framework. It includes several examples to illustrate the capabilities of LangChain in creating context-aware applications.
 
 ## 📚 Prerequisites
